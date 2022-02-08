@@ -34,3 +34,5 @@ public class SwaggerConfig {
 	}
 	
 }
+
+// how to call Swagger (http://localhost:8283/swagger-ui.html)
